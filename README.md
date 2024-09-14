@@ -13,20 +13,11 @@
   
 ![Snake animation](https://hithub.com/LulkyPowerGold/LulkyPowerGold/blob/output/github-contribution-grid-snake.svg)
 
-<!--título-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hello World</h1></summary>
-</div>
-
-<!-- Dropdown -->
 <details>
-  <summary>👨‍💻 More about me</summary>
   - ⚡ whether it's a good book
 </details>
 
 ## 🔥 Skills
-<!-- Skills: Programming Languages -->
   <div style="flex-basis: 48%;">
     <h3>Programming Languages</h3>
     <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
