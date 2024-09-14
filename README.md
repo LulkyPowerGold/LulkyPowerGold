@@ -1,27 +1,41 @@
 # _Olá!! Eu Sou LulkyPowerGold_ ✌
-• 🌱 I’m currently learning JavaScript
+• 🌱 I’m currently learning JavaScript, CSS, C
 
 • 😄 Pronouns: ele/dele
 
 <div>
   <a href="https://github.com/LulkyPowerGold">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LulkyPowerGold&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-</div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LulkyPowerGold&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  </div>
     
 <div style='display: inline_block"><br>
   <img align="center" alt="Lulky-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   
-![Snake animation](https://hithub.com/your_username/your_username/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://hithub.com/LulkyPowerGold/LulkyPowerGold/blob/output/github-contribution-grid-snake.svg)
 
+<!--título-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hello World</h1></summary>
+</div>
 
+<!-- Dropdown -->
+<details>
+  <summary>👨‍💻 More about me</summary>
+  - ⚡ I enjoy reading, whether it's a good book, manga, or comics, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving. \o/
+</details>
 
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=LulkyPowerGold&repo=LulkyPowerGold&theme=react)](https://github.com/LulkyPowerGold/LulkyPowerGold)
-
-<h3 align="center">Um desenvolvedor frontend apaixonado da Índia</h3>
-
-<h3 align="left">Conecte-se comigo:</h3>
+<!-- GIF -->
 <p align="left">
+  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
 </p>
 
-<h3 align="left">Idiomas e ferramentas:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+## 🔥 Skills
+<!-- Skills: Programming Languages -->
+  <div style="flex-basis: 48%;">
+    <h3>Programming Languages</h3>
+    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  </div>
+  
