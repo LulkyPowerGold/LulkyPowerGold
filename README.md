@@ -7,7 +7,7 @@
  
 <div>
   <a href="https://github.com/LulkyPowerGold">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LulkyPowerGold&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LulkyPowerGold&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   </div>
     
 <div style='display: inline_block"><br>
@@ -25,4 +25,4 @@
     <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   </div>
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=4999&section=footer&reversal=false&textBg=false"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=990&section=footer&reversal=false&textBg=false"/>
