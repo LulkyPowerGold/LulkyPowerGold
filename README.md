@@ -1,11 +1,11 @@
 # _Olá!! Eu Sou LulkyPowerGold_ ✌
 • 🌱 I’m currently learning JavaScript, CSS, C
-
+• ⚡ gosto de ouvir musica assistir Filmes e jogar
 • 😄 Pronouns: ele/dele
  
 <div>
   <a href="https://github.com/LulkyPowerGold">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LulkyPowerGold&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LulkyPowerGold&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   </div>
     
 <div style='display: inline_block"><br>
@@ -26,4 +26,4 @@
   </div>
 
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=auto&section=footer&reversal=false&textBg=false"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=1999&section=footer&reversal=false&textBg=false"/>
