@@ -1,7 +1,7 @@
 # _Olá!! Eu Sou LulkyPowerGold_ ✌
 • 🌱 I’m currently learning JavaScript, CSS, C.
 
-• ⚡ gosto de ouvir musica assistir Filmes e jogar e estou sempre melhorando.
+• ⚡ gosto de ouvir musicas assistir Filmes e jogar, e estou sempre melhorando.
 
 • 😄 Pronouns: Ele/Dele.
  
