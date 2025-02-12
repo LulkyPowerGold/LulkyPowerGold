@@ -1,4 +1,4 @@
-# _Olá!! Eu Sou LulkyPowerGold_ ✌     
+# _Olá!! Eu Sou Lulky_ ✌     
 • 🌱 I’m currently learning JavaScript, CSS, C.
 
 • ⚡ gosto de ouvir musicas assistir Filmes e jogar, e estou sempre melhorando.
